@@ -17,3 +17,6 @@ this EDA was made on cars.com data :
 Kaggle open dataset : [Used and New Cars Datasets](https://www.kaggle.com/datasets/georgejnr/used-and-new-cars-datasets)
 
 API command : ```kaggle datasets download -d georgejnr/used-and-new-cars-datasets```
+### nb viewer : 
+To get a rich view of the notebook use nbviewer :
+[dataset link](https://nbviewer.org/github/ahmedkltn/EDA_on_cars_data/blob/main/eda-on-used-and-new-cars.ipynb)
