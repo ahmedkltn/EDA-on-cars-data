@@ -12,3 +12,8 @@ this EDA was made on cars.com data :
 - Data exploring
 - Data cleaning
 - Data visualization
+### Data source :
+
+Kaggle open dataset : [Used and New Cars Datasets](https://www.kaggle.com/datasets/georgejnr/used-and-new-cars-datasets)
+
+API command : ```kaggle datasets download -d georgejnr/used-and-new-cars-datasets```
